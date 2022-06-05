@@ -16,11 +16,11 @@
   
   </h2>
 
-2.<h2>(っ◔◡◔)っ ♥ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐢 𝐤𝐧𝐨𝐰 ♥:
+2.<h2>(っ◔◡◔)っ ♥ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 and frameworks 𝐢 𝐤𝐧𝐨𝐰 ♥:
 
                    
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)   
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kir1l&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
