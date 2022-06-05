@@ -38,7 +38,7 @@
   
   4.<h2>𝕊𝕥𝕣𝕖𝕒𝕜 𝕤𝕥𝕒𝕥𝕤 <img src="https://github.com/kir1l/kir1l/blob/main/5Mz4.gif" height="32"></h2>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kir1l)](https://git.io/streak-stats)
 
 
 <h4>Follow me on</h4>
