@@ -30,7 +30,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kir1l&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
-<p>&nbsp;</p>
+<p>&nbsp;</p> 
+<p><img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width="25px"/> &nbsp <font size = 7> Codewars rank </font></p>
+<p align="center"><img src="https://www.codewars.com/users/kiri1l/badges/large" /></p>
+<p>&nbsp;</p> 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
