@@ -12,9 +12,11 @@
 
 - 📫 How to reach me balusinkirill@gmail.com
 
+- 📝 I regularly write articles on [https://t.me/messenger_dev](https://t.me/messenger_dev)
+
 <h3 align="left">Connect with me:</h3>
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AbonentNeAlo)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@undeflined)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balusinkirill@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kir1ll#4623)
 <p>&nbsp;</p>
