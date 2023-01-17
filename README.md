@@ -4,7 +4,7 @@
 
 <p>&nbsp;</p>
 
-- 🌱 I’m currently learning JavaScript and Angular
+- 🌱 I’m currently learning TypeScript and Angular
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/kir1l)
 
