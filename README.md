@@ -12,7 +12,7 @@ $ whoami
 <br>
 
 ```bash
-$ echo "Welcome to my GitHub profile"
+$ echo "Where am I?"
 
 >> Вы попали на мою страницу GitHub.
    Ознакомьтесь с моими проектами и не стесняйтесь
