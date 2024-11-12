@@ -130,7 +130,8 @@ $ ls /skills
 <br>
 
 <h1 align="center">Biotechnology <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1maW5nZXJwcmludCI+PHBhdGggZD0iTTEyIDEwYTIgMiAwIDAgMC0yIDJjMCAxLjAyLS4xIDIuNTEtLjI2IDQiLz48cGF0aCBkPSJNMTQgMTMuMTJjMCAyLjM4IDAgNi4zOC0xIDguODgiLz48cGF0aCBkPSJNMTcuMjkgMjEuMDJjLjEyLS42LjQzLTIuMy41LTMuMDIiLz48cGF0aCBkPSJNMiAxMmExMCAxMCAwIDAgMSAxOC02Ii8+PHBhdGggZD0iTTIgMTZoLjAxIi8+PHBhdGggZD0iTTIxLjggMTZjLjItMiAuMTMxLTUuMzU0IDAtNiIvPjxwYXRoIGQ9Ik01IDE5LjVDNS41IDE4IDYgMTUgNiAxMmE2IDYgMCAwIDEgLjM0LTIiLz48cGF0aCBkPSJNOC42NSAyMmMuMjEtLjY2LjQ1LTEuMzIuNTctMiIvPjxwYXRoIGQ9Ik05IDYuOGE2IDYgMCAwIDEgOSA1LjJ2MiIvPjwvc3ZnPg==" width="20" align="center"></h1>
-
+```bash
+$ dir biotech/
 ### Проекты в области биотехнологий
 
 - **<img src="https://www.svgrepo.com/show/474744/biotech.svg" width="20" align="center"> Разработка биоинформатического инструмента для анализа геномных данных**: Создание платформы для обработки и визуализации геномных последовательностей, облегчая исследование генетических заболеваний.
