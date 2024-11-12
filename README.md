@@ -1,101 +1,198 @@
-<img src="https://github.com/kir1l/kir1l/blob/main/E8mi.gif" width="100%"  height="80%"/>
-<h1 align="center">Hi 👋, I'm Kirill</h1>
-<h3 align="center">A junior frontend developer from Russia</h3>
+<!-- Banner -->
+<img src="https://i.pinimg.com/originals/5d/50/13/5d5013cbcab7ddef4d74e5087bfcfe80.gif" width="100%" align="center">
 
-<p>&nbsp;</p>
-
-- 🌱 I’m currently learning TypeScript and Angular
-
-- 👨‍💻 All of my projects are available at [github](https://github.com/kir1l)
-
-- 💬 Ask me about Angular
-
-- 📫 How to reach me balusinkirill@gmail.com
-
-- 📝 I regularly write articles on [https://t.me/messenger_dev](https://t.me/messenger_dev)
-
-<h3 align="left">Connect with me:</h3>
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@undeflined)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balusinkirill@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kir1ll#4623)
-<p>&nbsp;</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  • Scripts:
-  <br>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  </a>
-  <br>
-  <br>
-  • Bundlers:
-  <br>
-   <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-  </a>
-  <a href="https://gulpjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
-  </a>
-  <br>
-   <br>
-  • HTML:
-  <br>
- 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <br>
- <br>
-  • BaaS:
-  <br>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-</a>
- <br>
 <br>
-  • Testing:
+<!-- Making 'Who Am I' as a larger heading -->
+<h1 align="center">Who Am I ?</h1>
+
+```bash
+$ whoami
+>> Leonov K.
+```
+
 <br>
-  <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/>
-  </a>
-   <br>
+
+```bash
+$ echo "Welcome to my GitHub profile"
+
+>> Вы попали на мою страницу GitHub.
+   Пожалуйста, ознакомьтесь с моими проектами и не стесняйтесь
+   связаться со мной при возникновении вопросов или предложений.
+```
+
 <br>
-  • Other:
+
+## About.txt
+
+```bash
+$ cat /home/Leonov/about_me.txt
+```
+
+### Я **Leonov**, разработчик с обширным опытом в области веб-разработки, блокчейн-технологий и искусственного интеллекта. Стремлюсь создавать инновационные решения, которые продвигают технологии вперёд и улучшают жизнь людей.
+
+```bash
+$ history | grep milestones
+
+>> В 16 заработал свой первый миллион.
+>> В 17 поднял собственный блокчейн.
+```
+
 <br>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-</p>
 
-<p>&nbsp;</p>
+<img src="https://i.pinimg.com/originals/fc/a7/44/fca744042e6ecee57bd5005f74bb8e9b.gif" width="100%" align="center">
 
-<p align="center"><img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kir1l&show_icons=true&theme=dracula&locale=en&layout=compact" alt="kir1ll" /></p>
-<p>&nbsp;</p>
-<p align="center">&nbsp;<img align="center" width="350px" src="https://github-readme-stats.vercel.app/api?username=kir1l&show_icons=true&theme=dracula&locale=en" alt="kir1ll" /></p>
+<br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kir1l&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+<h1 align="center">Code <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1iaW5hcnkiPjxyZWN0IHg9IjE0IiB5PSIxNCIgd2lkdGg9IjQiIGhlaWdodD0iNiIgcng9IjIiLz48cmVjdCB4PSI2IiB5PSI0IiB3aWR0aD0iNCIgaGVpZ2h0PSI2IiByeD0iMiIvPjxwYXRoIGQ9Ik02IDIwaDQiLz48cGF0aCBkPSJNMTQgMTBoNCIvPjxwYXRoIGQ9Ik02IDE0aDJ2NiIvPjxwYXRoIGQ9Ik0xNCA0aDJ2NiIvPjwvc3ZnPg==" width="20" align="center"></h1>
 
-<p>&nbsp;</p> 
-<p><img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width="25px"/> &nbsp <font size = 7> Codewars rank </font></p>
-<p align="center"><img src="https://www.codewars.com/users/kiri1l/badges/large" /></p>
-<p>&nbsp;</p> 
+### Текущие проекты
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+```bash
+$ ps aux | grep Leonov_projects
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=kir1l&label=Profile%20views&color=8d78c2&style=flat-square" alt="kir1ll" /> </p>
+>> Веду разработку софта для ресторанного менеджмента.
+>> Разработка электронного журнала для школ и революция в системе образования.
+>> Разработка собственной игры.
+>> Пишу книгу.
+```
+
+<br>
+
+### Навыки и компетенции
+
+```bash
+$ ls /skills
+```
+
+<!-- Updating icons to black and white versions from svgrepo.com -->
+
+<!-- Frontend Development -->
+
+### **Frontend-разработка**
+
+- **<img src="https://skillicons.dev/icons?i=react" width="20" align="center"> React**: Создание интерактивных пользовательских интерфейсов.
+- **<img src="https://skillicons.dev/icons?i=nextjs" width="20" align="center"> Next.js**: Серверный рендеринг и повышение производительности приложений.
+- **<img src="https://skillicons.dev/icons?i=ts" width="20" align="center"> JavaScript / TypeScript**: Разработка сложных веб-приложений.
+- **<img src="https://www.svgrepo.com/show/452115/telegram.svg" width="20" align="center"> TG WebApps / DApps**: Создание современных веб- и децентрализованных приложений.
+- **<img src="https://skillicons.dev/icons?i=tailwind" width="20" align="center"> Tailwind CSS / Bootstrap**: Быстрая и адаптивная стилизация интерфейсов.
+- **<img src="https://skillicons.dev/icons?i=vite" width="20" align="center"> Webpack / Vite**: Модульные сборщики для оптимизации и ускорения разработки.
+- **<img src="https://www.svgrepo.com/show/287906/flask.svg" width="20" align="center"> Progressive Web Apps (PWA)**: Создание приложений с возможностями нативных.
+
+<!-- Backend Development -->
+
+### **Backend-разработка**
+
+- **<img src="https://skillicons.dev/icons?i=python" width="20" align="center"> Python**
+  - **<img src="https://skillicons.dev/icons?i=django" width="20" align="center"> Django**: Разработка масштабируемых веб-приложений.
+  - **<img src="https://skillicons.dev/icons?i=flask" width="20" align="center"> Flask, FastAPI**: Создание легковесных веб-сервисов и RESTful API.
+  - **<img src="https://www.svgrepo.com/show/452115/telegram.svg" width="20" align="center"> Aiogram**: Разработка ботов и автоматизация процессов в Telegram.
+- **<img src="https://skillicons.dev/icons?i=nodejs" width="20" align="center"> Node.js + Express**: Создание высокопроизводительных серверных приложений и API.
+
+<!-- Databases -->
+
+### **Базы данных**
+
+- **<img src="https://skillicons.dev/icons?i=postgres" width="20" align="center"> PostgreSQL**: Надёжное и эффективное хранение данных.
+- **<img src="https://skillicons.dev/icons?i=mongodb" width="20" align="center"> MongoDB**: Гибкие NoSQL решения для структурированных данных.
+- **<img src="https://skillicons.dev/icons?i=mysql" width="20" align="center"> MySQL**: Популярная реляционная база данных для различных приложений.
+- **<img src="https://skillicons.dev/icons?i=redis" width="20" align="center"> Redis**: Кэширование и хранение данных в памяти для высокой производительности.
+- **<img src="https://skillicons.dev/icons?i=graphql" width="20" align="center"> GraphQL**: Эффективное управление запросами к данным.
+
+<!-- Blockchain and Cryptography -->
+
+### **Блокчейн и криптография**
+
+- **<img src="https://skillicons.dev/icons?i=solidity" width="20" align="center"> Разработка смарт-контрактов**: Создание безопасных и эффективных контрактов на Solidity.
+- **<img src="https://www.svgrepo.com/show/508408/bitcoin.svg" width="20" align="center"> Децентрализованные приложения (DApps)**: Проектирование и разработка на основе блокчейна.
+- **<img src="https://www.svgrepo.com/show/416499/application-media-networking.svg" width="20" align="center"> Криптографические протоколы**: Обеспечение безопасности и конфиденциальности данных.
+
+<!-- AI and Machine Learning -->
+
+### **Искусственный интеллект и машинное обучение**
+
+- **<img src="https://skillicons.dev/icons?i=tensorflow" width="20" align="center"> Python для AI**: Использование TensorFlow, PyTorch для разработки моделей.
+- **<img src="https://skillicons.dev/icons?i=python" width="20" align="center"> Data Science**: Анализ данных и построение предиктивных моделей.
+
+<!-- Electronics and IoT -->
+
+### **Электроника и IoT**
+
+- **<img src="https://skillicons.dev/icons?i=arduino" width="20" align="center"> Arduino**: Прототипирование устройств и интеграция с различными датчиками.
+
+<!-- Cybersecurity -->
+
+### **Кибербезопасность**
+
+- **<img src="https://www.svgrepo.com/show/229609/computer-badge.svg" width="20" align="center"> Пентестинг и этичный хакинг**: Выявление уязвимостей и повышение безопасности систем.
+
+<br>
+
+<img src="https://i.pinimg.com/originals/05/9e/b9/059eb9dcc1d4002923a39bf81836c43a.gif" width="100%" align="center">
+
+<br>
+
+<h1 align="center">Biotechnology <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1maW5nZXJwcmludCI+PHBhdGggZD0iTTEyIDEwYTIgMiAwIDAgMC0yIDJjMCAxLjAyLS4xIDIuNTEtLjI2IDQiLz48cGF0aCBkPSJNMTQgMTMuMTJjMCAyLjM4IDAgNi4zOC0xIDguODgiLz48cGF0aCBkPSJNMTcuMjkgMjEuMDJjLjEyLS42LjQzLTIuMy41LTMuMDIiLz48cGF0aCBkPSJNMiAxMmExMCAxMCAwIDAgMSAxOC02Ii8+PHBhdGggZD0iTTIgMTZoLjAxIi8+PHBhdGggZD0iTTIxLjggMTZjLjItMiAuMTMxLTUuMzU0IDAtNiIvPjxwYXRoIGQ9Ik01IDE5LjVDNS41IDE4IDYgMTUgNiAxMmE2IDYgMCAwIDEgLjM0LTIiLz48cGF0aCBkPSJNOC42NSAyMmMuMjEtLjY2LjQ1LTEuMzIuNTctMiIvPjxwYXRoIGQ9Ik05IDYuOGE2IDYgMCAwIDEgOSA1LjJ2MiIvPjwvc3ZnPg==" width="20" align="center"></h1>
+
+### Проекты в области биотехнологий
+
+- **<img src="https://www.svgrepo.com/show/474744/biotech.svg" width="20" align="center"> Разработка биоинформатического инструмента для анализа геномных данных**: Создание платформы для обработки и визуализации геномных последовательностей, облегчая исследование генетических заболеваний.
+
+- **<img src="https://www.svgrepo.com/show/147462/pulse.svg" width="20" align="center"> Автоматизация микробиологических процессов с использованием AI**: Применение методов машинного обучения для автоматизации анализа микробных культур и ускорения процессов исследования.
+
+### Технологии
+
+- **<img src="https://www.svgrepo.com/show/387268/cpu.svg" width="20" align="center"> Машинное обучение в биотехнологиях**: Использование алгоритмов машинного обучения для предсказания структуры белков и генетических последовательностей.
+
+- **<img src="https://www.svgrepo.com/show/396310/dna.svg" width="20" align="center"> CRISPR-Cas9 модельные симуляции**: Разработка симуляционных моделей для исследований геномного редактирования.
+
+- **<img src="https://www.svgrepo.com/show/463418/touchid.svg" width="20" align="center"> Биосенсоры и нанотехнологии**: Интеграция наноматериалов для создания высокочувствительных биосенсоров.
+
+<br>
+
+<img src="https://i.pinimg.com/originals/0e/fb/8c/0efb8c5f30bf27f2dfa56cf4bbfb6256.gif" width="100%" height="400px" align="center">
+
+<br>
+
+<h1 align="center">Contacts <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1lYXJ0aC1sb2NrIj48cGF0aCBkPSJNNyAzLjM0VjVhMyAzIDAgMCAwIDMgMyIvPjxwYXRoIGQ9Ik0xMSAyMS45NVYxOGEyIDIgMCAwIDAtMi0yIDIgMiAwIDAgMS0yLTJ2LTFhMiAyIDAgMCAwLTItMkgyLjA1Ii8+PHBhdGggZD0iTTIxLjU0IDE1SDE3YTIgMiAwIDAgMC0yIDJ2NC41NCIvPjxwYXRoIGQ9Ik0xMiAyYTEwIDEwIDAgMSAwIDkuNTQgMTMiLz48cGF0aCBkPSJNMjAgNlY0YTIgMiAwIDEgMC00IDB2MiIvPjxyZWN0IHdpZHRoPSI4IiBoZWlnaHQ9IjUiIHg9IjE0IiB5PSI2IiByeD0iMSIvPjwvc3ZnPg==" width="20" align="center"></h1>
+
+<!-- Contact Information -->
+
+### Email
+
+```bash
+$ ping -c1 [email protected]
+>> 200 OK
+```
+
+### Telegram
+
+```bash
+$ ssh @busines_only
+```
+
+<br>
+
+## Сообщество и участие
+
+```bash
+$ tail -f /var/log/community.log
+```
+
+- **<img src="https://www.svgrepo.com/show/354443/telegram.svg" width="20" align="center"> Личный блог**: [Telegram](https://t.me/busines_capital)
+- **<img src="https://www.svgrepo.com/show/449764/github.svg" width="20" align="center"> Open Source**: Активный вклад в проекты с открытым исходным кодом, поддержка сообщества разработчиков.
+- **<img src="https://www.svgrepo.com/show/448226/gitlab.svg" width="20" align="center"> Менторство**: Наставничество для начинающих разработчиков, помощь в развитии навыков и построении карьеры.
+
+---
+
+### Если у вас есть дополнительные вопросы или предложения о сотрудничестве, буду рад обсудить их. Свяжитесь со мной удобным для вас способом. Попробуйте.
+
+<br>
+
+```bash
+$ exit
+```
+
+<img src="https://i.pinimg.com/originals/66/e1/97/66e197ec58cbf5ab5faf1ad7a6aee6f3.gif" width="100%" align="center">
+
+<br>
+<p align="center">Leonov. K.</p>
