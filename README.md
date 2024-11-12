@@ -2,7 +2,6 @@
 <img src="https://i.pinimg.com/originals/5d/50/13/5d5013cbcab7ddef4d74e5087bfcfe80.gif" width="100%" align="center">
 
 <br>
-<!-- Making 'Who Am I' as a larger heading -->
 <h1 align="center">Who Am I ?</h1>
 
 ```bash
@@ -64,8 +63,6 @@ $ ps aux | grep Leonov_projects
 ```bash
 $ ls /skills
 ```
-
-<!-- Updating icons to black and white versions from svgrepo.com -->
 
 <!-- Frontend Development -->
 
