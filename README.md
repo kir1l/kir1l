@@ -166,6 +166,7 @@ $ ping -c1 [email protected]
 
 ```bash
 $ ssh @busines_only
+>> Connected
 ```
 
 <br>
@@ -188,6 +189,7 @@ $ tail -f /var/log/community.log
 
 ```bash
 $ exit
+>> До встречи!
 ```
 
 <img src="https://i.pinimg.com/originals/66/e1/97/66e197ec58cbf5ab5faf1ad7a6aee6f3.gif" width="100%" align="center">
