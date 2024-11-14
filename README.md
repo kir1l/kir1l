@@ -1,3 +1,7 @@
+```bash
+$ cd Leonov/world/IT/
+```
+>>:
 <!-- Banner -->
 <img src="https://i.pinimg.com/originals/5d/50/13/5d5013cbcab7ddef4d74e5087bfcfe80.gif" width="100%" align="center">
 
