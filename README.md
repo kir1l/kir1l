@@ -167,7 +167,7 @@ $ dir biotech/
 ### Email
 
 ```bash
-$ ping -c1 [email protected]
+$ ping -c1 Leonovw@proton.me
 >> 200 OK
 ```
 
