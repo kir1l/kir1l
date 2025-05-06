@@ -1,27 +1,29 @@
 ```bash
-$ cd Leonov/world/IT/
+$ cd Leonov/world/IT/ && cat README.md
 ```
 
-> Response:
 <!-- Banner -->
-<img src="https://i.pinimg.com/originals/5d/50/13/5d5013cbcab7ddef4d74e5087bfcfe80.gif" width="100%" align="center">
+<img src="https://i.pinimg.com/originals/fc/a7/44/fca744042e6ecee57bd5005f74bb8e9b.gif" width="100%" align="center">
 
 <br>
-<h1 align="center">Who Am I ?</h1>
+<br>
+
+<h1>Who Am I ?</h1>
 
 ```bash
 $ whoami
->> Leonov K.
+
+>> Leonov
 ```
 
 <br>
 
 ```bash
-$ echo "Where am I?"
+$ echo "where am I?"
 
->> Вы попали на мою страницу GitHub.
-   Ознакомьтесь с моими проектами и не стесняйтесь
-   связаться со мной при возникновении вопросов или предложений.
+>> Добро пожаловать на мою страницу GitHub.
+   Здесь вы найдете мои проекты и можете связаться со мной
+   по всем вопросам или предложениям.
 ```
 
 <br>
@@ -30,40 +32,36 @@ $ echo "Where am I?"
 
 ```bash
 $ cat /home/Leonov/about_me.txt
+
+>> Разработчик с обширным опытом в области создания web приложений, построении полноценных высоконагруженных микросервисных архитектур и сопровождении бизнеса от идеи до реализации.
+
+Увлечен блокчейн технологиями и Cyber Security. Выдвигаю инновационные решения, которые продвигают технологии вперёд и улучшают жизнь.
 ```
 
- Я.. **Кирилл Leonov**, разработчик с обширным опытом в области веб-разработки, блокчейн-технологий и искусственного интеллекта. Создаю инновационные решения, которые продвигают технологии вперёд и улучшают вашу жизнь.
+<br>
 
 ```bash
 $ history | grep milestones
 
 >> В 16 заработал свой первый миллион.
->> В 17 поднял собственный блокчейн.
->> В 18 - первые 15 миллионов.
+>> В 17 развернул собственный блокчейн.
 ```
 
 <br>
-
-<img src="https://i.pinimg.com/originals/fc/a7/44/fca744042e6ecee57bd5005f74bb8e9b.gif" width="100%" align="center">
-
 <br>
 
-<h1 align="center">Code <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1iaW5hcnkiPjxyZWN0IHg9IjE0IiB5PSIxNCIgd2lkdGg9IjQiIGhlaWdodD0iNiIgcng9IjIiLz48cmVjdCB4PSI2IiB5PSI0IiB3aWR0aD0iNCIgaGVpZ2h0PSI2IiByeD0iMiIvPjxwYXRoIGQ9Ik02IDIwaDQiLz48cGF0aCBkPSJNMTQgMTBoNCIvPjxwYXRoIGQ9Ik02IDE0aDJ2NiIvPjxwYXRoIGQ9Ik0xNCA0aDJ2NiIvPjwvc3ZnPg==" width="20" align="center"></h1>
+<h1>Code</h1>
 
 ### Текущие проекты
 
 ```bash
-$ ps aux | grep Leonov_projects
+$ ps aux | grep "project_*"
 
->> Веду разработку софта для ресторанного менеджмента.
->> Разработка электронного журнала для школ и революция в системе образования.
->> Разработка собственной игры.
->> Пишу книгу.
+>> Разработка E-commerce приложения NeTao с нуля
+>> Веду разработку CRM для ресторанного менеджмента
 ```
 
-<br>
-
-### Навыки и компетенции
+### Навыки
 
 ```bash
 $ ls /skills
@@ -71,98 +69,103 @@ $ ls /skills
 
 <!-- Frontend Development -->
 
-### **Frontend-разработка**
+### **Frontend**
 
-- **<img src="https://skillicons.dev/icons?i=react" width="20" align="center"> React**: Создание интерактивных пользовательских интерфейсов.
-- **<img src="https://skillicons.dev/icons?i=nextjs" width="20" align="center"> Next.js**: Серверный рендеринг и повышение производительности приложений.
-- **<img src="https://skillicons.dev/icons?i=ts" width="20" align="center"> JavaScript / TypeScript**: Разработка сложных веб-приложений.
-- **<img src="https://www.svgrepo.com/show/452115/telegram.svg" width="20" align="center"> TG WebApps / DApps**: Создание современных веб- и децентрализованных приложений.
-- **<img src="https://skillicons.dev/icons?i=tailwind" width="20" align="center"> Tailwind CSS / Bootstrap**: Быстрая и адаптивная стилизация интерфейсов.
-- **<img src="https://skillicons.dev/icons?i=vite" width="20" align="center"> Webpack / Vite**: Модульные сборщики для оптимизации и ускорения разработки.
-- **<img src="https://www.svgrepo.com/show/287906/flask.svg" width="20" align="center"> Progressive Web Apps (PWA)**: Создание приложений с возможностями нативных.
+- **<img src="https://skillicons.dev/icons?i=react" width="20" align="center"> React** — разработка интерактивных пользовательских интерфейсов.
+- **<img src="https://skillicons.dev/icons?i=nextjs" width="20" align="center"> Next.js**: — SSR, ISG и оптимизация производительности.
+- **<img src="https://skillicons.dev/icons?i=ts" width="20" align="center"> TypeScript**: — строгая типизация и масштабируемость веб-приложений.
+- **<img src="https://www.svgrepo.com/show/452115/telegram.svg" width="20" align="center"> TG WebApps / DApps** — cоздание современных веб- и децентрализованных приложений.
+- **<img src="https://www.svgrepo.com/show/287906/flask.svg" width="20" align="center"> PWA / React Natvie** — гибридные и мобильные приложения с нативными возможностями.
 
 <!-- Backend Development -->
 
-### **Backend-разработка**
+### **Backend**
 
 - **<img src="https://skillicons.dev/icons?i=python" width="20" align="center"> Python**
-  - **<img src="https://skillicons.dev/icons?i=django" width="20" align="center"> Django**: Разработка масштабируемых веб-приложений.
-  - **<img src="https://skillicons.dev/icons?i=flask" width="20" align="center"> Flask, FastAPI**: Создание легковесных веб-сервисов и RESTful API.
-  - **<img src="https://www.svgrepo.com/show/452115/telegram.svg" width="20" align="center"> Aiogram**: Разработка ботов и автоматизация процессов в Telegram.
-- **<img src="https://skillicons.dev/icons?i=nodejs" width="20" align="center"> Node.js + Express**: Создание высокопроизводительных серверных приложений и API.
+  - **<img src="https://skillicons.dev/icons?i=django" width="20" align="center"> Django** — масштабируемые веб-приложения и админ-панели.
+  - **<img src="https://skillicons.dev/icons?i=flask" width="20" align="center"> FastAPI** — быстрые асинхронные REST API с OpenAPI.
+  - **<img src="https://www.svgrepo.com/show/452115/telegram.svg" width="20" align="center"> Aiogram** — асинхронные Telegram-боты, автоматизация и интеграции.
+- **<img src="https://skillicons.dev/icons?i=nodejs" width="20" align="center"> Node.js + Express** — легковесные REST API и микросервисы.
+- **<img src="https://skillicons.dev/icons?i=ts" width="20" align="center"> NestJS** — масштабируемая архитектура backend-приложений.
+
+<!-- Devops -->
+
+### **DevOps и инфраструктура**
+
+- **<img src="https://skillicons.dev/icons?i=docker" width="20" align="center"> Docker** — контейнеризация и изоляция сред.
+- **<img src="https://www.svgrepo.com/show/452192/docker.svg" width="20" align="center"> Docker Compose** — управление мультиконтейнерными приложениями.
+- **<img src="https://www.svgrepo.com/show/373924/nginx.svg" width="20" align="center"> Nginx** — обратный прокси, балансировка нагрузки, HTTPS.
+- **<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5TgvfyQXTfJo_XdQc6eP0GLWYev0JaMrhAQ&s" width="20" align="center"> Traefik** — динамический reverse proxy и автоматическое управление SSL.
+- **<img src="https://skillicons.dev/icons?i=githubactions" width="20" align="center"> GitHub Actions** — CI/CD пайплайны и автоматизация процессов.
+- **<img src="https://skillicons.dev/icons?i=linux" width="20" align="center"> Linux** — настройка серверов и автоматизация.
+- **<img src="https://skillicons.dev/icons?i=git" width="20" align="center"> Git** — контроль версий, ветвление, Git Flow.
+
+### **Архитектура**
+
+- **<img src="https://skillicons.dev/icons?i=graphql" width="20" align="center"> REST & GraphQL API** — построение гибких интерфейсов взаимодействия.
+- **<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WebSocket_colored_logo.svg/1200px-WebSocket_colored_logo.svg.png" width="20" align="center"> WebSockets / SSE** — реалтайм-обновления, стриминг.
+- **<img src="https://seeklogo.com/images/G/grpc-logo-561C1563B1-seeklogo.com.png" width="20" align="center"> gRPC (в процессе)** — RPC-коммуникации между сервисами.
+- **<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1FPfOoaypFqMRm-QWw7fqCvVlmaDlfFXnWg&s" width="20" align="center"> Microservices / Monolith / Hexagonal architecture** — проектирование архитектур под задачи.
 
 <!-- Databases -->
 
 ### **Базы данных**
 
-- **<img src="https://skillicons.dev/icons?i=postgres" width="20" align="center"> PostgreSQL**: Надёжное и эффективное хранение данных.
-- **<img src="https://skillicons.dev/icons?i=mongodb" width="20" align="center"> MongoDB**: Гибкие NoSQL решения для структурированных данных.
-- **<img src="https://skillicons.dev/icons?i=mysql" width="20" align="center"> MySQL**: Популярная реляционная база данных для различных приложений.
-- **<img src="https://skillicons.dev/icons?i=redis" width="20" align="center"> Redis**: Кэширование и хранение данных в памяти для высокой производительности.
-- **<img src="https://skillicons.dev/icons?i=graphql" width="20" align="center"> GraphQL**: Эффективное управление запросами к данным.
+- **<img src="https://skillicons.dev/icons?i=postgres" width="20" align="center"> PostgreSQL** — надёжное и эффективное хранение данных.
+- **<img src="https://skillicons.dev/icons?i=mongodb" width="20" align="center"> MongoDB** — гибкие NoSQL решения для спцефичных задач.
+- **<img src="https://skillicons.dev/icons?i=redis" width="20" align="center"> Redis** — in-memory cache, pub/sub, брокер сообщений.
 
 <!-- Blockchain and Cryptography -->
 
 ### **Блокчейн и криптография**
 
-- **<img src="https://skillicons.dev/icons?i=solidity" width="20" align="center"> Разработка смарт-контрактов**: Создание безопасных и эффективных контрактов на Solidity.
-- **<img src="https://www.svgrepo.com/show/508408/bitcoin.svg" width="20" align="center"> Децентрализованные приложения (DApps)**: Проектирование и разработка на основе блокчейна.
-- **<img src="https://www.svgrepo.com/show/416499/application-media-networking.svg" width="20" align="center"> Криптографические протоколы**: Обеспечение безопасности и конфиденциальности данных.
-
-<!-- AI and Machine Learning -->
-
-### **Искусственный интеллект и машинное обучение**
-
-- **<img src="https://skillicons.dev/icons?i=tensorflow" width="20" align="center"> Python для AI**: Использование TensorFlow, PyTorch для разработки моделей.
-- **<img src="https://skillicons.dev/icons?i=python" width="20" align="center"> Data Science**: Анализ данных и построение предиктивных моделей.
+- **<img src="https://skillicons.dev/icons?i=solidity" width="20" align="center"> Solidity** — разработка смарт-контрактов на Ethereum..
+- **<img src="https://www.svgrepo.com/show/508408/bitcoin.svg" width="20" align="center"> DApps** — создание децентрализованных приложений.
+- **<img src="https://www.svgrepo.com/show/416499/application-media-networking.svg" width="20" align="center"> Криптографические протоколы** — безопасность, шифрование, хеширование.
 
 <!-- Electronics and IoT -->
 
 ### **Электроника и IoT**
 
-- **<img src="https://skillicons.dev/icons?i=arduino" width="20" align="center"> Arduino**: Прототипирование устройств и интеграция с различными датчиками.
+- **<img src="https://skillicons.dev/icons?i=arduino" width="20" align="center"> Arduino** — Прототипирование устройств и интеграция с различными датчиками.
 
 <!-- Cybersecurity -->
 
 ### **Кибербезопасность**
 
-- **<img src="https://www.svgrepo.com/show/229609/computer-badge.svg" width="20" align="center"> Пентестинг и этичный хакинг**: Выявление уязвимостей и повышение безопасности систем.
+- **<img src="https://i.pinimg.com/564x/67/9a/8c/679a8ce044245372ca495c4c9c151225.jpg" width="20" align="center"> Pentesting** — выявление уязвимостей и повышение безопасности систем.
 
 <br>
 
 <img src="https://i.pinimg.com/originals/05/9e/b9/059eb9dcc1d4002923a39bf81836c43a.gif" width="100%" align="center">
 
 <br>
+<br>
 
-<h1 align="center">Biotechnology <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1maW5nZXJwcmludCI+PHBhdGggZD0iTTEyIDEwYTIgMiAwIDAgMC0yIDJjMCAxLjAyLS4xIDIuNTEtLjI2IDQiLz48cGF0aCBkPSJNMTQgMTMuMTJjMCAyLjM4IDAgNi4zOC0xIDguODgiLz48cGF0aCBkPSJNMTcuMjkgMjEuMDJjLjEyLS42LjQzLTIuMy41LTMuMDIiLz48cGF0aCBkPSJNMiAxMmExMCAxMCAwIDAgMSAxOC02Ii8+PHBhdGggZD0iTTIgMTZoLjAxIi8+PHBhdGggZD0iTTIxLjggMTZjLjItMiAuMTMxLTUuMzU0IDAtNiIvPjxwYXRoIGQ9Ik01IDE5LjVDNS41IDE4IDYgMTUgNiAxMmE2IDYgMCAwIDEgLjM0LTIiLz48cGF0aCBkPSJNOC42NSAyMmMuMjEtLjY2LjQ1LTEuMzIuNTctMiIvPjxwYXRoIGQ9Ik05IDYuOGE2IDYgMCAwIDEgOSA1LjJ2MiIvPjwvc3ZnPg==" width="20" align="center"></h1>
+<h1>Biotechnology</h1>
 
 ```bash
 $ dir biotech/
 ```
 
-### Проекты в области биотехнологий
+### Бионика, биотехнологии и экспериментальные исследования
 
-- **<img src="https://www.svgrepo.com/show/474744/biotech.svg" width="20" align="center"> Разработка биоинформатического инструмента для анализа геномных данных**: Создание платформы для обработки и визуализации геномных последовательностей, облегчая исследование генетических заболеваний.
+- **<img src="https://www.svgrepo.com/show/474744/biotech.svg" width="20" align="center"> Исследования в области бионики и киберфизиологии** —
+  изучение взаимодействия биологических систем с электронными и вычислительными интерфейсами. Эксперименты по интеграции сенсоров и носимых устройств.
 
-- **<img src="https://www.svgrepo.com/show/147462/pulse.svg" width="20" align="center"> Автоматизация микробиологических процессов с использованием AI**: Применение методов машинного обучения для автоматизации анализа микробных культур и ускорения процессов исследования.
+- **<img src="https://www.svgrepo.com/show/147462/pulse.svg" width="20" align="center"> Экспериментальные протоколы и биохакинг** —
+  ведение протоколов, self-experimentation, изучение действия ноотропов, стимуляторов и нагрузок.
 
-### Технологии
-
-- **<img src="https://www.svgrepo.com/show/387268/cpu.svg" width="20" align="center"> Машинное обучение в биотехнологиях**: Использование алгоритмов машинного обучения для предсказания структуры белков и генетических последовательностей.
-
-- **<img src="https://www.svgrepo.com/show/396310/dna.svg" width="20" align="center"> CRISPR-Cas9 модельные симуляции**: Разработка симуляционных моделей для исследований геномного редактирования.
-
-- **<img src="https://www.svgrepo.com/show/463418/touchid.svg" width="20" align="center"> Биосенсоры и нанотехнологии**: Интеграция наноматериалов для создания высокочувствительных биосенсоров.
-
-<br>
-
-<img src="https://i.pinimg.com/originals/0e/fb/8c/0efb8c5f30bf27f2dfa56cf4bbfb6256.gif" width="100%" height="400px" align="center">
-- Come with me.
-<br>
-
-<h1 align="center">Contacts <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1lYXJ0aC1sb2NrIj48cGF0aCBkPSJNNyAzLjM0VjVhMyAzIDAgMCAwIDMgMyIvPjxwYXRoIGQ9Ik0xMSAyMS45NVYxOGEyIDIgMCAwIDAtMi0yIDIgMiAwIDAgMS0yLTJ2LTFhMiAyIDAgMCAwLTItMkgyLjA1Ii8+PHBhdGggZD0iTTIxLjU0IDE1SDE3YTIgMiAwIDAgMC0yIDJ2NC41NCIvPjxwYXRoIGQ9Ik0xMiAyYTEwIDEwIDAgMSAwIDkuNTQgMTMiLz48cGF0aCBkPSJNMjAgNlY0YTIgMiAwIDEgMC00IDB2MiIvPjxyZWN0IHdpZHRoPSI4IiBoZWlnaHQ9IjUiIHg9IjE0IiB5PSI2IiByeD0iMSIvPjwvc3ZnPg==" width="20" align="center"></h1>
+- **<img src="https://www.svgrepo.com/show/396310/dna.svg" width="20" align="center"> Изучение мутаций и генной инженерии** — работа с открытыми биоинформатическими базами данных (NCBI, Ensembl), симуляции процессов редактирования генома (CRISPR, Zinc-finger).
 
 <!-- Contact Information -->
+
+<br>
+<br>
+
+<h1 >Contacts</h1>
+
+### Если у вас есть дополнительные вопросы или предложения о сотрудничестве, буду рад обсудить их. Свяжитесь со мной удобным для вас способом.
 
 ### Email
 
@@ -174,8 +177,8 @@ $ ping -c1 Leonovw@proton.me
 ### Telegram
 
 ```bash
-$ ssh @busines_only
->> Connected
+$ ping -c1 @busines_only
+>> 200 OK
 ```
 
 <br>
@@ -186,19 +189,12 @@ $ ssh @busines_only
 $ tail -f /var/log/community.log
 ```
 
-- **<img src="https://www.svgrepo.com/show/354443/telegram.svg" width="20" align="center"> Личный блог**: [Telegram](https://t.me/busines_capital)
-- **<img src="https://www.svgrepo.com/show/449764/github.svg" width="20" align="center"> Open Source**: Активный вклад в проекты с открытым исходным кодом, поддержка сообщества разработчиков.
-- **<img src="https://www.svgrepo.com/show/448226/gitlab.svg" width="20" align="center"> Менторство**: Наставничество для начинающих разработчиков, помощь в развитии навыков и построении карьеры.
-
----
-
-### Если у вас есть дополнительные вопросы или предложения о сотрудничестве, буду рад обсудить их. Свяжитесь со мной удобным для вас способом. Попробуйте.
+**Личный блог** — [Telegram <img src="https://www.svgrepo.com/show/354443/telegram.svg" width="20" align="center">](https://t.me/busines_capital) <br>
 
 <br>
 
 ```bash
 $ exit
->> До встречи!
 ```
 
 <img src="https://i.pinimg.com/originals/66/e1/97/66e197ec58cbf5ab5faf1ad7a6aee6f3.gif" width="100%" align="center">
